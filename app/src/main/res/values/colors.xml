@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2C8DDA</color>
+    <color name="colorPrimaryDark">#2C8DDA</color>
+    <color name="colorAccent">#49E279</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="grey">#cccccc</color>
+    <color name="greySecondary">#B5B5B5</color>
+    <color name="greyPrimary">#95989A</color>
+    <color name="greyDark">#4c4c4c</color>
+    <color name="greyBg">#f2f2f2</color>
+    <color name="bgCard">#FAFAFA</color>
+</resources>
