@@ -1,2 +1,8 @@
 # Hiren_D_Assessment
-Loading data in recyclerview using Retrofit 2.0 and data caching
+Project setup using Kotlin & MVVM 
+UI setup
+Dagger 2.0 setup
+Settings Roomdatabase for data caching
+Retrofit 2.0 & Glide setup
+Connect repository and ViewModel
+Implement paging
