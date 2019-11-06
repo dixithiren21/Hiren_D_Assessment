@@ -1,4 +1,3 @@
-# Hiren_D_Assessment
 # Project setup using Kotlin & MVP 
 # UI setup & databinding
 # Fragment integration 
